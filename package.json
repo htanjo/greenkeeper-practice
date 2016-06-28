@@ -8,10 +8,10 @@
     "test": "mocha"
   },
   "dependencies": {
-    "lodash": "^3.0.0"
+    "lodash": "^4.13.1"
   },
   "devDependencies": {
-    "chai": "^2.0.0",
+    "chai": "^3.5.0",
     "mocha": "^2.5.3"
   }
 }
