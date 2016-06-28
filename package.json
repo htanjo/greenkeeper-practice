@@ -2,5 +2,8 @@
   "private": true,
   "name": "greenkeeper-practice",
   "version": "0.0.0",
-  "description": "Sandbox for greenkeeper.io"
+  "description": "Sandbox for greenkeeper.io",
+  "dependencies": {
+    "lodash": "^3.0.0"
+  }
 }
