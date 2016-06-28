@@ -3,7 +3,15 @@
   "name": "greenkeeper-practice",
   "version": "0.0.0",
   "description": "Sandbox for greenkeeper.io",
+  "main": ".",
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "lodash": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
   }
 }
